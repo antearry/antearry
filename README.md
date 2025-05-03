@@ -1,5 +1,7 @@
 ## Hi there 👋
+I am studying at North Carolina State University.
 
+I'm experienced in C++, Java, HTML and Python. I'm currently working on a small RPG project, primarily as a fun pass time getting used to UE5 tools. Feel free to reach out to me on Discord, my username is "aleisteriv".
 <!--
 **antearry/antearry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
