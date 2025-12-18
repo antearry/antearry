@@ -1,5 +1,6 @@
 ## Hi there 👋
-I am studying at North Carolina State University.
+I am recently graduated from NCSU, studying game development.
+I'm currently learning about sprite animation, will have some small samples posted soon.
 
 I'm experienced in C++, Java, HTML and Python. I'm currently working on a small RPG project, primarily as a fun pass time getting used to UE5 tools. Feel free to reach out to me on Discord, my username is "aleisteriv".
 <!--
